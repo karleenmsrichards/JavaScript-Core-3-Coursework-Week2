@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #f5f6fa;
+}
+
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2% 0 7% 0;
+    border-bottom: 100px solid #b6c1e6;
+}
+
+.title-text {
+    color: #d21414;
+}
+
+#ul-container {
+    padding: 5%;
+    background-color: #e0e5f5;
+    box-shadow: 7px 5px 5px #807878;
+}
